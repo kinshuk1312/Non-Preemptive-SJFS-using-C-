@@ -1,4 +1,4 @@
-# Non-Preemptive-SJFS-using-C-
+# Non-Preemptive-SJFS-using-Cpp
 Shortest job first (SJF) or shortest job next, is a scheduling policy that selects the waiting process with the smallest execution time to execute next. SJN is a non-preemptive algorithm.  
 Shortest Job first has the advantage of having a minimum average waiting time among all scheduling algorithms. 
 It is a Greedy Algorithm. 
